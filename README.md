@@ -1,5 +1,6 @@
 # Computer-Vision 
 ## Virtual Painter Js
+Draw using camera with the support of keyboard (using space button) to determine when to start drawing and when to stop.
 ## Main Branch
 The Main has the files modified while integrating with the front end.
 
